@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "Space 1",
+        "template": {
+            "id": 1,
+            "name": "Harbor",
+            "image": "https://backendbnitopia.s3.ap-southeast-1.amazonaws.com/1672395786161-6349e14737c5d.jpg"
+        },
+        "appUser": {
+            "id": 1,
+            "firstName": "Hafis",
+            "lastName": "mandala",
+            "email": "siaduhai01@gmail.com",
+            "password": "$2a$10$1cFsQ8FKKtel88r8l6aXFeptmiHOuQ66oat02VS7yh6WbzPhjAvVu",
+            "avatar": "avatarFromS3UploadHere",
+            "about": "Flower Boy",
+            "url": "url3DFromUnity",
+            "username": "hamaar",
+            "appUserRole": "USER",
+            "locked": false,
+            "enabled": false,
+            "roles": [
+                {
+                    "id": 1,
+                    "name": "USER"
+                }
+            ],
+            "provider": "LOCAL"
+        },
+        "likes": 0,
+        "visitor": 0
+    },
+    {
+        "id": 2,
+        "name": "Space 2",
+        "template": {
+            "id": 2,
+            "name": "Harbor",
+            "image": "https://backendbnitopia.s3.ap-southeast-1.amazonaws.com/1672395786161-6349e14737c5d.jpg"
+        },
+        "appUser": {
+            "id": 1,
+            "firstName": "Hafis",
+            "lastName": "mandala",
+            "email": "siaduhai01@gmail.com",
+            "password": "$2a$10$1cFsQ8FKKtel88r8l6aXFeptmiHOuQ66oat02VS7yh6WbzPhjAvVu",
+            "avatar": "avatarFromS3UploadHere",
+            "about": "Flower Boy",
+            "url": "url3DFromUnity",
+            "username": "hamaar",
+            "appUserRole": "USER",
+            "locked": false,
+            "enabled": false,
+            "roles": [
+                {
+                    "id": 1,
+                    "name": "USER"
+                }
+            ],
+            "provider": "LOCAL"
+        },
+        "likes": 0,
+        "visitor": 0
+    },
+    {
+        "id": 3,
+        "name": "Space 3",
+        "template": {
+            "id": 3,
+            "name": "Harbor",
+            "image": "https://backendbnitopia.s3.ap-southeast-1.amazonaws.com/1672395786161-6349e14737c5d.jpg"
+        },
+        "appUser": {
+            "id": 1,
+            "firstName": "Hafis",
+            "lastName": "mandala",
+            "email": "siaduhai01@gmail.com",
+            "password": "$2a$10$1cFsQ8FKKtel88r8l6aXFeptmiHOuQ66oat02VS7yh6WbzPhjAvVu",
+            "avatar": "avatarFromS3UploadHere",
+            "about": "Flower Boy",
+            "url": "url3DFromUnity",
+            "username": "hamaar",
+            "appUserRole": "USER",
+            "locked": false,
+            "enabled": false,
+            "roles": [
+                {
+                    "id": 1,
+                    "name": "USER"
+                }
+            ],
+            "provider": "LOCAL"
+        },
+        "likes": 0,
+        "visitor": 0
+    },
+    {
+        "id": 4,
+        "name": "Space 4",
+        "template": {
+            "id": 4,
+            "name": "ngetes",
+            "image": "https://s3.ap-southeast-1.amazonaws.com/backendbnitopia/1676689542210-bniexib.png"
+        },
+        "appUser": {
+            "id": 1,
+            "firstName": "Hafis",
+            "lastName": "mandala",
+            "email": "siaduhai01@gmail.com",
+            "password": "$2a$10$1cFsQ8FKKtel88r8l6aXFeptmiHOuQ66oat02VS7yh6WbzPhjAvVu",
+            "avatar": "avatarFromS3UploadHere",
+            "about": "Flower Boy",
+            "url": "url3DFromUnity",
+            "username": "hamaar",
+            "appUserRole": "USER",
+            "locked": false,
+            "enabled": false,
+            "roles": [
+                {
+                    "id": 1,
+                    "name": "USER"
+                }
+            ],
+            "provider": "LOCAL"
+        },
+        "likes": 0,
+        "visitor": 0
+    },
+    {
+        "id": 5,
+        "name": "Space 5",
+        "template": {
+            "id": 5,
+            "name": "yandi tes",
+            "image": "https://s3.ap-southeast-1.amazonaws.com/backendbnitopia/1677050336604-2.PNG"
+        },
+        "appUser": {
+            "id": 1,
+            "firstName": "Hafis",
+            "lastName": "mandala",
+            "email": "siaduhai01@gmail.com",
+            "password": "$2a$10$1cFsQ8FKKtel88r8l6aXFeptmiHOuQ66oat02VS7yh6WbzPhjAvVu",
+            "avatar": "avatarFromS3UploadHere",
+            "about": "Flower Boy",
+            "url": "url3DFromUnity",
+            "username": "hamaar",
+            "appUserRole": "USER",
+            "locked": false,
+            "enabled": false,
+            "roles": [
+                {
+                    "id": 1,
+                    "name": "USER"
+                }
+            ],
+            "provider": "LOCAL"
+        },
+        "likes": 0,
+        "visitor": 0
+    }
+]
